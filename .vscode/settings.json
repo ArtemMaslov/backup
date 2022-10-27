@@ -1,0 +1,8 @@
+{
+    "files.exclude": 
+    {
+        //"file": true,
+        //"logs": true,
+        //"ext_array": true
+    }
+}
